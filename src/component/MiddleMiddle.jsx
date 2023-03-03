@@ -79,15 +79,15 @@ export const MiddleMiddle = () => {
                 <div className='w-full flex items-center justify-around my-2'>
                     <div className='flex items-center justify-center my-2 p-2 rounded-md duration-300 cursor-pointer hover:bg-[aliceblue]'>
                         <RiLiveFill className='xs:text-xl sm:text-3xl text-red-500' />
-                        <p className='xs:text-[10px] sm:text-md font-Quicksand ml-2 font-bold'>Live video</p>
+                        <p className='xs:text-[10px] sm:text-[15px] font-Quicksand ml-2 font-bold'>Live video</p>
                     </div>
                     <div className='flex items-center justify-center my-2 p-2 rounded-md duration-300 cursor-pointer hover:bg-[aliceblue]'>
                         <HiPhoto className='xs:text-xl sm:text-3xl text-green-500' />
-                        <p className='xs:text-[10px] sm:text-md font-Quicksand ml-2 font-bold'>Photo/video</p>
+                        <p className='xs:text-[10px] sm:text-[15px] font-Quicksand ml-2 font-bold'>Photo/video</p>
                     </div>
                     <div className='flex items-center justify-center my-2 p-2 rounded-md duration-300 cursor-pointer hover:bg-[aliceblue]'>
                         <IoMdHappy className='xs:text-xl sm:text-3xl text-yellow-500' />
-                        <p className='xs:text-[10px] sm:text-md font-Quicksand ml-2 font-bold'>Feeling/activity</p>
+                        <p className='xs:text-[10px] sm:text-[15px] font-Quicksand ml-2 font-bold'>Feeling/activity</p>
                     </div>
                 </div>
             </div>
